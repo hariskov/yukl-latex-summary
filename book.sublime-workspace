@@ -1,0 +1,614 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"sub",
+				"sub\tSub Section"
+			],
+			[
+				"subs",
+				"subs\tSub Sub Section"
+			],
+			[
+				"ta",
+				"tab\tTabular"
+			],
+			[
+				"b",
+				"images/Bus.png"
+			],
+			[
+				"un",
+				"upmplainnat"
+			],
+			[
+				"unsrt",
+				"unsrtnat"
+			],
+			[
+				"plai",
+				"plainnat"
+			],
+			[
+				"ieeetr",
+				"IEEEtranM"
+			],
+			[
+				"a",
+				"article\tBibLaTeX Article"
+			],
+			[
+				"item",
+				"item\tItemize"
+			],
+			[
+				"use",
+				"usepackage"
+			],
+			[
+				"i",
+				"itemize"
+			],
+			[
+				"su",
+				"subs\tSub Sub Section"
+			],
+			[
+				"s",
+				"sub"
+			],
+			[
+				"ch",
+				"chapters/conclusion"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "main.tex",
+			"settings":
+			{
+				"buffer_size": 815,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "sections/chp6.tex",
+			"settings":
+			{
+				"buffer_size": 14275,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "sections/chp7.tex",
+			"settings":
+			{
+				"buffer_size": 2957,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "sections/ratingArticle.tex",
+			"settings":
+			{
+				"buffer_size": 141,
+				"encoding": "UTF-8",
+				"line_ending": "Unix",
+				"name": "ratingArticle.tex"
+			}
+		},
+		{
+			"contents": "% !TeX root = ../main.tex\n\n\\section{Paper DERUE et al 2011 Trait and Behavioral Theories}\n\n\\subsection{Conceptualizing Leadership Effectiveness} % (fold)\n\\label{sub:conceptualizing_leadership_effectiveness}\n\nthree dimensions:\n(a) content, (b) level of analysis, and (c) target of evaluation.\n\nThe level of analysis corresponds to whether leadership effectiveness is conceptualized at the individual, dyadic, group, or organizational level.\n\n% subsection conceptualizing_leadership_effectiveness (end)\n\n\\subsection{Toward an Integrated Model of Leader Traits and Behaviors} % (fold)\n\\label{sub:toward_an_integrated_model_of_leader_traits_and_behaviors}\n\nleadership effectiveness is influenced by both leader traits and behaviors, it is not clear from this research how leader traits and behaviors complement or supplement each other,\n\nour own review of the literature, most leader traits can be organized into three categories:\n(a) demographics, (b) traits related to task competence, and (c) interper-psonal attributes. Similarly, leader behaviors are often discussed in terms of whether the behavior is oriented toward (a) task processes, (b) relational dynamics, or (c) change.\n\n\n% subsection toward_an_integrated_model_of_leader_traits_and_behaviors (end)\n\n\n\\subsection{The Leader Trait Paradigm} % (fold)\n\\label{sub:the_leader_trait_paradigm}\n\nIn reviewing trait theories of leadership, Bass (1990) proposed two questions: \n(a) Which traits distinguish leaders from other people\n\t leader traits re- lated to demographics (e.g., gender, age, education), task competence (e.g., \tintelligence, Conscientiousness), or interpersonal attributes (e.g., Agreeableness, \tExtraversion; Bass \\& Bass, 2008)\n(b) what is the magnitude of those differences? -  no studies done\nExtroversion and Openness to Experience are related to intelligence\n\n\\subsubsection{Demographics} % (fold)\n\\label{ssub:demographics}\nAmong the possible demographics of leaders, gender has received the most attention. Other demographics such as physical characteristics (e.g., height; Judge \\& Cable, 2004), education (Howard \\& Bray, 1988), and experience \nalthough men and women exhibit some differences in leadership style, men and women appear to be equally effective\n\n% subsubsection demographics (end)\n\n\\subsubsection{Task competence} % (fold)\n\\label{ssub:task_competence}\nTask competence is a general category of leader traits that relate to how individuals approach the execution and performance of tasks\n\n\\begin{itemize}\n\t\\item Intelligence reflects a general factor of cognitive abilities related to individuals’ verbal, spatial, numerical, and reasoning abilities, and has been established as a consistent predictor of task performance\n\t\\item Conscientiousness reflects the extent to which a person is dependable, dutiful, and achievement oriented, and is often associated with deliberate planning and structure\n\t\\item Openness to Experience is commonly associated with being imaginative, curious, and open minded to new and different ways of working \n\t\\item Emotional Stability refers to a person’s ability to remain calm and not be easily upset when faced with challenging tasks.\n\\end{itemize}\n% subsubsection task_competence (end)\n\n\\subsubsection{Relative validity of leader traits} % (fold)\n\\label{ssub:relative_validity_of_leader_traits}\nResearch suggests that leader traits related to task competence and interpersonal attributes are important predictors of leadership effectiveness\n\n\\begin{itemize}\n\t\\item Hypothesis 1: Leader traits related to task competence will exhibit a stronger, positive relationship with task performance dimensions of leadership effectiveness than leaders’ demographics or interpersonal attributes.\n\t\\item Hypothesis 2: Leader traits related to interpersonal attributes will exhibit a stronger, positive relationship with affective and relational dimensions of leadership effectiveness than leaders’ demographics or traits related to task competence.\n\t\\item Hypothesis 3: Leader traits related to (a) task competence and (b) interpersonal attributes will both be positively related to overall leader effectiveness and more so than demographics.\n\\end{itemize}\n\n% subsubsection relative_validity_of_leader_traits (end)\n\\subsubsection{The Leader Behavior Paradigm} % (fold)\n\\label{ssub:the_leader_behavior_paradigm}\nOne consistent theme in the literature is that behaviors can be fit into four categories: task-oriented behaviors, relational-oriented behaviors, change-oriented behaviors, and what we refer to as passive leadership\n\nRelative validity of leader behaviors\n\\begin{itemize}\n\t\\item Hypothesis 4: Task-oriented and change-oriented leader behaviors will exhibit a stronger, positive relationship with task performance dimensions of leadership effectiveness than relational-oriented or passive leader behaviors.\n\t\\item Hypothesis 5: Relational-oriented and change-oriented leader behaviors will exhibit a stronger, positive relationship with affective and relational dimensions of leadership effectiveness than task-oriented or passive leader behaviors.\n\t\\item Hypothesis 6: Task-, relational-, and change-oriented leader behaviors will be positively related to overall leader effectiveness and more so than passive leader behaviors.\n\\end{itemize}\n\n% subsubsection the_leader_behavior_paradigm (end)\n% subsection the_leader_trait_paradigm (end)\n\n\\subsection{Leader Traits Versus Behaviors: A Test of Relative Validity} % (fold)\n\\label{sub:leader_traits_versus_behaviors_a_test_of_relative_validity}\n\tGiven the complexity and ambiguity of leadership contexts (Pfeffer, 1977), it is likely that leadership situations vary with respect to trait relevance. In other words, leaders’ traits will not always manifest in ways that impact leadership effectiveness\n\t\\\\Hypothesis 8: Leader behaviors will predict more variance in leadership effectiveness than leader traits.\n\n% subsection leader_traits_versus_behaviors_a_test_of_relative_validity (end)",
+			"file": "sections/traitBehaviorArticle.tex",
+			"file_size": 5968,
+			"file_write_time": 131668047989989146,
+			"settings":
+			{
+				"buffer_size": 5958,
+				"encoding": "UTF-8",
+				"line_ending": "Unix",
+				"name": "traitBehaviorArticle.tex"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					""
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Traditional"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"PdfLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"XeLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"LuaLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Basic Builder"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Basic Builder - PdfLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Basic Builder - XeLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Basic Builder - LuaLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Script Builder"
+				]
+			],
+			[
+				"Packages/LaTeXTools/LaTeX.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 400.0,
+		"last_filter": "Package Control: ",
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Remove Package"
+			],
+			[
+				"terminal",
+				"Terminal View: Open Bash Terminal"
+			]
+		],
+		"width": 465.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/media/Storage/Article/leadership/book",
+		"/media/Storage/Article/leadership/book/images",
+		"/media/Storage/Article/leadership/book/sections"
+	],
+	"file_history":
+	[
+		"/media/Storage/Code/University/Intenship/main.tex",
+		"/media/Storage/Article/leadership/book/sections/chp3.tex",
+		"/media/Storage/Article/leadership/book/sections/chp1.tex",
+		"/home/xumepa/.config/sublime-text-3/Packages/User/Default (Linux).sublime-keymap",
+		"/home/xumepa/.config/sublime-text-3/Packages/LaTeXTools/Default (Linux).sublime-keymap",
+		"/home/xumepa/.config/sublime-text-3/Packages/User/LaTeXTools.sublime-settings",
+		"/home/xumepa/.config/sublime-text-3/Packages/LaTeXTools/LaTeXTools.sublime-settings",
+		"/media/Storage/Article/leadership/book/sections/chp13.tex",
+		"/media/Storage/Article/leadership/book/sections/chp2.tex",
+		"/media/Storage/Article/leadership/book/sections/chp6.tex",
+		"/media/Storage/Article/leadership/book/sections/chp7.tex",
+		"/media/Storage/Article/leadership/book/sections/chp8.tex",
+		"/media/Storage/Article/leadership/book/sections/chp9.tex",
+		"/media/Storage/Article/leadership/book/sections/chp15.tex",
+		"/media/Storage/Article/leadership/book/sections/chp16.tex",
+		"/media/Storage/Article/leadership/book/sections/chp12.tex",
+		"/media/Storage/Code/University/Intenship/chapters/abstract.tex",
+		"/media/Storage/opencv/opencv-master/data/readme.txt",
+		"/media/Storage/Code/netbeans-8.2/etc/netbeans.conf",
+		"/etc/environment",
+		"/media/Storage/Downloads/associationRules.m",
+		"/media/Storage/Downloads/The Lord of the Rings The Fellowship of the Ring  EXTENDED (2001)/The.Lord.of.the.Rings.the.Fellowship.of.the.Ring.EXTENDED.2001.720p.BrRip.x264.BOKUTOX.YIFY.srt",
+		"/media/Storage/Code/University/Intenship/chapters/intro.tex",
+		"/media/Storage/Code/University/Intenship/chapters/develop.tex",
+		"/media/Storage/Code/University/Intenship/chapters/research.tex",
+		"/media/Storage/Code/University/Intenship/bibliography.bib",
+		"/media/Storage/Code/University/Intenship/chapters/conclusion.tex",
+		"/media/Storage/Downloads/Journey to the Center of the Earth [1999 PAL DVD][En Subs[Sv]/Journey to the Center of the Earth (Hallmark).txt",
+		"/home/xumepa/.keras/keras.json",
+		"/home/xumepa/.theanorc",
+		"/home/xumepa/VirtualBox VMs/CentOS/Logs/VBox.log",
+		"/media/Storage/Games/Heroes of Might and Magic 3 Complete GOG/Heroes3.cnt",
+		"/media/Storage/Games/Heroes of Might and Magic 3 Complete GOG/h3ccmped.cnt",
+		"/media/Storage/Games/Heroes of Might and Magic 3 Complete GOG/README.TXT",
+		"/media/Storage/Games/Heroes of Might & Magic III - HD Edition/lang.dat",
+		"/media/Storage/Games/Heroes of Might & Magic III - HD Edition/POSTMORTEM.ini",
+		"/media/Storage/Code/Testing/association/output3.txt",
+		"/media/Storage/Code/Testing/association/output4.txt",
+		"/media/Storage/Code/Testing/association/output5.txt",
+		"/media/Storage/Code/Testing/association/output6.txt",
+		"/media/Storage/Downloads/Matlab_2017a_Linux_x86-64/INSTALL",
+		"/run/user/1000/gvfs/archive:host=file%253A%252F%252F%252Fmedia%252FStorage%252FDownloads%252FMatlab_2017a_Linux_x86-64%252FR2017a_glnxa64_dvd1.iso/installer_input.txt",
+		"/run/user/1000/gvfs/archive:host=file%253A%252F%252F%252Fmedia%252FStorage%252FDownloads%252FMatlab_2017a_Linux_x86-64%252FR2017a_glnxa64_dvd1.iso/readme.txt",
+		"/run/user/1000/gvfs/archive:host=file%253A%252F%252F%252Fmedia%252FStorage%252FDownloads%252FMatlab_2017a_Linux_x86-64%252FR2017a_glnxa64_dvd1.iso/install",
+		"/home/xumepa/.cache/.fr-zj0Vw1/install_gpuarray_pygpu.sh",
+		"/media/Storage/Code/abc.html",
+		"/home/xumepa/.cache/.fr-sDf6S3/The_Irony_of_Fate_ENG_25fps.srt",
+		"/media/Storage/Downloads/The.Tiger.And.The.Snow.2005.XviD.AC3-WAF/The.Tiger.And.The.Snow.2005.XviD.AC3-WAF.smi",
+		"/media/Storage/Code/University/Intenship/glossaries.tex",
+		"/home/xumepa/shit/assignment.js",
+		"/home/xumepa/shit/nodejs.js",
+		"/home/xumepa/shit/package-lock.json",
+		"/home/xumepa/shit/package.json",
+		"/home/xumepa/.config/sublime-text-3/Packages/User/terminalinpackages.sublime-settings",
+		"/home/xumepa/.config/sublime-text-3/Packages/Terminal in Packages/terminalinpackages.sublime-settings",
+		"/home/xumepa/.config/sublime-text-3/Packages/TerminalinPackages/Default.sublime-keymap",
+		"/home/xumepa/.config/sublime-text-3/Packages/Terminal/Default (Linux).sublime-keymap",
+		"/home/xumepa/.config/sublime-text-3/Packages/Terminal/Terminal.sublime-settings",
+		"/home/xumepa/.config/sublime-text-3/Packages/User/Terminal (Linux).sublime-settings",
+		"/home/xumepa/.config/gzdoom/gzdoom.ini",
+		"/etc/modprobe.d/nvidia-graphics-drivers.conf",
+		"/home/xumepa/Downloads/The.X-Files.S07.Season.7.720p.5.1Ch.BluRay.ReEnc-DeeJayAhmed/The.X-Files.S07E05.720p.5.1Ch.BluRay.ReEnc-DeeJayAhmed.srt",
+		"/media/Storage/Code/openCV/README.md",
+		"/media/Storage/doom/gzdoom.ini",
+		"/media/Storage/Steam/steamapps/common/Europa Universalis IV/console_history.txt",
+		"/home/xumepa/Downloads/The.X-Files.S07.Season.7.720p.5.1Ch.BluRay.ReEnc-DeeJayAhmed/The.X-Files.S07E04.720p.5.1Ch.BluRay.ReEnc-DeeJayAhmed.srt",
+		"/home/xumepa/.cache/.fr-MsPX3V/pi4j-1.2-SNAPSHOT/README.md",
+		"/media/Storage/Downloads/oracle-jmesdk-8-3-rr-linux-bin.sh",
+		"/media/Storage/Games/SpellForce 3/mplevels.txt",
+		"/media/Storage/Games/SpellForce 3/log.txt",
+		"/media/Storage/Games/SpellForce 3/SF3Client_2017_12_10_16_44_23_REV_45434.dmp",
+		"/media/Storage/Games/SpellForce 3/config_system.txt",
+		"/media/Storage/Games/SpellForce 3/CONFIG.ini",
+		"/media/Storage/Downloads/Aritmiya-AKA-Arrhythmia.2017.1080p.WEB-DL.srt",
+		"/media/Storage/Code/openCV/src/main/resources/META-INF/MANIFEST.MF",
+		"/home/xumepa/nodejs.js",
+		"/media/Storage/Code/University/Intenship/[no file]",
+		"/media/Storage/Code/University/Intenship/glossaries.aux",
+		"/media/Storage/Code/University/Intenship/main.aux",
+		"/media/Storage/Code/University/Intenship/main.log",
+		"/media/Storage/Code/University/Intenship/main.pdf",
+		"/media/Storage/Code/University/Intenship/diagram.png",
+		"/media/Storage/Code/University/Intenship/latex.synctex.gz",
+		"/media/Storage/Code/University/Intenship/conclusion.tex",
+		"/media/Storage/Code/University/Intenship/develop.tex",
+		"/media/Storage/Code/University/Intenship/research.tex",
+		"/media/Storage/Code/University/Intenship/intro.tex",
+		"/etc/systemd/system/teamviewerd.service"
+	],
+	"find":
+	{
+		"height": 42.0
+	},
+	"find_in_files":
+	{
+		"height": 118.0,
+		"where_history":
+		[
+			"<current file>"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"Behavioral",
+			"traitBehaviorArticle.PaperDERUE et al 2011 Trait and Behavioral",
+			"Theories",
+			"Trait",
+			"Theories",
+			"Behavioral",
+			" ",
+			"Theories",
+			"tex",
+			"Article",
+			"Six",
+			"narc",
+			"subsubsection",
+			"alt+/",
+			"alt+",
+			"alt+/",
+			"autocom",
+			"auto",
+			"dd",
+			"aut",
+			"code",
+			"a",
+			"auto",
+			"compl",
+			"\\",
+			"auto",
+			"tex",
+			"%",
+			"tex",
+			"chp2",
+			"tex",
+			"maketitle",
+			"}"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			"subsection"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 4,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "main.tex",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 815,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								758,
+								758
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/LaTeX/LaTeX.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 399.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "sections/chp6.tex",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 14275,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								26
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/LaTeX/LaTeX.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "sections/chp7.tex",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2957,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2292,
+								2292
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/LaTeX/LaTeX.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 434.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "sections/ratingArticle.tex",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 141,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								28,
+								80
+							]
+						],
+						"settings":
+						{
+							"auto_name": "ratingArticle.tex",
+							"syntax": "Packages/LaTeX/LaTeX.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "sections/traitBehaviorArticle.tex",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5958,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								5772,
+								5772
+							]
+						],
+						"settings":
+						{
+							"auto_name": "traitBehaviorArticle.tex",
+							"syntax": "Packages/LaTeX/LaTeX.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 1368.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 42.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 340.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.latextools":
+	{
+		"height": 245.0
+	},
+	"output.nodejs":
+	{
+		"height": 260.0
+	},
+	"pinned_build_system": "",
+	"project": "book.sublime-project",
+	"replace":
+	{
+		"height": 80.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 237.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
